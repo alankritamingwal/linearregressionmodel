@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595914054572.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "634BEC3D",
+    "lastKnownWriteTime" : 1889107374384,
+    "last_content_update" : 1595914054572,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A280C04C",
+        "caption" : "finaldata2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=finaldata2&cache_key=A280C04C",
+        "displayedObservations" : 398,
+        "environment" : "",
+        "expression" : "finaldata2",
+        "object" : "finaldata2",
+        "preview" : 0,
+        "totalObservations" : 398,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

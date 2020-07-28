@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595911883794.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D684C7E0",
+    "lastKnownWriteTime" : 12666820636180535,
+    "last_content_update" : 1595911883794,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "764BDB2A",
+        "caption" : "car_mpg_o",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=car_mpg_o&cache_key=764BDB2A",
+        "displayedObservations" : 44,
+        "environment" : "",
+        "expression" : "car_mpg_o",
+        "object" : "car_mpg_o",
+        "preview" : 0,
+        "totalObservations" : 44,
+        "variables" : 10
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

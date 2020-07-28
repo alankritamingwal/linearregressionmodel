@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595907500606.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "82180650",
+    "id" : "C2E9E4FE",
+    "lastKnownWriteTime" : 1595915007,
+    "last_content_update" : 1595915007761,
+    "path" : "C:/Users/hp/Desktop/linear-regression-model/linaerregression.R",
+    "project_path" : "linaerregression.R",
+    "properties" : {
+        "cursorPosition" : "102,54",
+        "scrollLine" : "70",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
