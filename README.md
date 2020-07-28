@@ -13,3 +13,7 @@
 
 
 5.plot of car mpg with all factors add up in single histogram plot ![](mpg.png)
+
+
+
+ my work ss ![](2020-07-28%20(1).png)
