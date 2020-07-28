@@ -1,4 +1,4 @@
 # linear_regressionmodel
 
 
-![]("plots.png")
+![](plots.png)
